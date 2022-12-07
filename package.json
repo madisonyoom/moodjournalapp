@@ -23,6 +23,6 @@
   "homepage": "https://github.com/madisonyoom/moodjournalapp#readme",
   "dependencies": {
     "bcrypt": "^3.0.7",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
